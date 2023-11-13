@@ -1,5 +1,3 @@
-import React from "react";
-
 const AllUsers = () => {
   return (
     <div className="w-full bg-gray-900 flex flex-col items-center justify-center relative px-4">
